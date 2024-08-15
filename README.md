@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @GaryStarer
-- 👀 I’m interested in read science fiction
+- 👋 Hi, I’m @hu
 - 🌱 I’m currently learning Magnetotelluric inversion 
 - 💞️ I’m looking to collaborate on geologist
 - 📫 How to reach me Email 1535509134@qq.com
